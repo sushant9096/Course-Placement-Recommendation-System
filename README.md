@@ -2,9 +2,9 @@
 
 A course recommendation system using the Coursera Courses dataset which contains over 3,000 courses. 
 
-The model has been trained using a dataset of 3,000 courses! Find the dataset [here 🔗](https://www.kaggle.com/khusheekapoor/coursera-courses-dataset-2021)
+Courses recommendation model has been trained using a dataset of 3,000 courses! Find the dataset [here 🔗](https://www.kaggle.com/khusheekapoor/coursera-courses-dataset-2021)
 
-Link to my Kaggle Notebook [here 🔗](https://www.kaggle.com/sagarbapodara/coursera-course-recommendation-system-webapp)
+Link to Courses Kaggle Notebook [here 🔗](https://www.kaggle.com/sagarbapodara/coursera-course-recommendation-system-webapp)
 
 ## Tech Used 
 
@@ -153,5 +153,6 @@ Thanks for looking into the project and being here. Feel free to share your revi
 
 Ending Credits 
 - Made using Python and Streamlit
-- @Author : [Sagar Bapodara](https://www.linkedin.com/in/sagar-bapodara/)
+- @Author (Course Recommendation) : [Sagar Bapodara](https://www.linkedin.com/in/sagar-bapodara/)
+- @Author (Placement Recommendation): [Sushant Zope](https://www.linkedin.com/in/sushant-zope-648167171/)
 
